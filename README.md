@@ -19,7 +19,7 @@ Design and implement a sensor system to accurately detect the surrounding enviro
 
 ![system](https://github.com/RuaaMQasem/Parallel-Auto-Parking-System/assets/142262095/70629b41-4d2a-4731-9b88-1eaf89850382)
 
-### software Architecture
+### Software Architecture
 
 
 ![software](https://github.com/RuaaMQasem/Parallel-Auto-Parking-System/assets/142262095/f7407232-7783-4769-a071-79391b640c5e)
