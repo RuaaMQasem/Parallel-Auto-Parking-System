@@ -33,7 +33,7 @@ Design and implement a sensor system to accurately detect the surrounding enviro
 ![connection](https://github.com/RuaaMQasem/Parallel-Auto-Parking-System/assets/142262095/439c5d0a-c590-4bec-bd2e-1be680cd70b1)
 
 ## My Contribution
-I was responsible for implementing MOTOR, SYS Tick and UART Drivers and Handling the corner cases in the algorithm. 
+I was responsible for implementing MOTOR, SYS Tick and UART Drivers, dealing with Bluetooth Module, and Handling the corner cases in the algorithm. 
 
 ## [Output](https://drive.google.com/file/d/1AlvuF_Hu1tpZX9DE0pFt5FqHwVqHxt08/view?usp=sharing)
 
